@@ -1,0 +1,5 @@
+N 16
+numReads 1000
+numWrites 500
+lamdaR 5
+lamdaW 10
