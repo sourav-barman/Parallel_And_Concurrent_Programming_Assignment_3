@@ -10,7 +10,7 @@ AUTHOR
 
 FILE LISTING
 ------------
-  MRSW-CS26MTECH02003.cpp    - Main source file (submit this)
+  mrsw.cpp    - Main source file (submit this)
   inp-params.txt       - Input parameter file (must be in same directory)
   readme.txt           - This file
   report.pdf           - Assignment report (PDF compiled from report.tex)
