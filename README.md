@@ -1,8 +1,7 @@
 # Parallel_And_Concurrent_Programming_Assignment_3
 ===============================================================================
   CS5300 - Parallel and Concurrent Programming
-  Programming Assignment 3: MRSW Regular Register
-  README
+  MRSW Regular Register Construction With and Without Atomic Bool
 ===============================================================================
 
 AUTHOR
